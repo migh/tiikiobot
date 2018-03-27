@@ -1,0 +1,22 @@
+{
+  "name": "hello_bot",
+  "version": "0.0.1",
+  "description": "A simple bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "telegram",
+    "google",
+    "cloud",
+    "functions"
+  ],
+  "author": "Migsar Navarro",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "js-yaml": "^3.11.0"
+  }
+}
