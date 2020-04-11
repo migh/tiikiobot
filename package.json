@@ -17,7 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
-    "js-yaml": "^3.11.0",
+    "js-yaml": "^3.13.1",
     "mime-db": "^1.33.0",
     "node-telegram-bot-api": "^0.30.0",
     "octonode": "^0.9.2"
